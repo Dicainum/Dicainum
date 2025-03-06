@@ -1,4 +1,4 @@
-# Greetings there  👋
+# 👋
 
 - 🌱 I’m a Junior Unity Developer
 - 🤔 How can you contact me? Send me a message on Telegram: @Dixainum
