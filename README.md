@@ -1,6 +1,5 @@
 # 👋
 
-- 🌱 I’m a Junior Unity Developer
 - 🤔 Contact me: telegram @Dixainum
 - ⚡ My native language is Russian, but I have a B2 level in English and A2 in German.
 
