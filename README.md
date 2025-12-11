@@ -7,5 +7,5 @@
 ![Trello](https://img.shields.io/badge/Trello-1E1E1E?style=for-the-badge&logo=trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-1E1E1E?style=for-the-badge&logo=miro&logoColor=FFD02F)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
